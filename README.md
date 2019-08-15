@@ -1,2 +1,2 @@
 # flask-microblog
-Microblog
+Microblog application
